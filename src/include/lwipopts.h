@@ -347,7 +347,7 @@
 #define LWIP_COMPAT_MUTEX_ALLOWED	1
 
 /* DEBUG options */
-//#define LWIP_DEBUG		1
+#define LWIP_DEBUG		1
 #define DHCP_DEBUG		LWIP_DBG_OFF
 #define ETHARP_DEBUG		LWIP_DBG_OFF
 #define TCPIP_DEBUG		LWIP_DBG_OFF
